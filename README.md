@@ -1,2 +1,5 @@
 # My_SWE_Skills
-My technical skills in alphabetic order
+My top fifty technical skills arranged in alphabetic order.
+
+The current count is 48.
+
