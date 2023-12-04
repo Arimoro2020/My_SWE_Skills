@@ -1,31 +1,33 @@
-"Alembic",               # Demonstrated through a project: Drivers-Trip-Destinations-CLI-App.
-"Automation",             # Demonstrated on the job (TPM Role), & Projects: Chat-App; Predicting Churn of Telecom Users.
-"Azure Cloud",            # Certification.
-"Azure Data Engineering", # Microsoft Azure Data Engineering Associate Certification.
-"Azure Data Factory",     # Microsoft Azure Data Engineering Associate Certification.
-"Backend Development",    # Demonstrated by Chat-App project.
-"CI/CD",                  # Demonstrated on the job (TPM Role)
-"CLI",                    # Drivers-Trip-Destinations-CLI-App.
-"CSS",                    # Group of 3 and 2 Projects: Ice Cream Shop Finder; Cocktail Recipe Search.
-"DOM",                    # Group of 2 Project: Cocktail Recipe Search.
-"Data Analysis",          # Demonstrated on the job (TPM Role), Microsoft Certification, & Projects: Predicting Churn of Telecom Users.
-"Data Science",           # Demonstrated on the job (TPM Role), Microsoft Certification, & Projects: Predicting Churn of Telecom Users.
-"Data Visualization",     # Demonstrated on the job (TPM Role), Microsoft Certification, & Projects: Predicting Churn of Telecom Users.
-"Database Migration",     # Demonstrated through a project: Drivers-Trip-Destinations-CLI-App.
-"Databricks",             #  Microsoft Azure Data Engineering Associate Certification & Microsoft Azure Data Science Associate Certification.
-"Debugging",              # Hands-on through projects and programming.
-"Design_Patterns",        # Self-thought and applied concepts to projects, i.e. decomposition.
-"Domain Modeling",        # Demonstrated in projects: Chat-App project.
-"ELT",                    # Microsoft Azure Data Engineering Associate Certification.
-"Flask",                  # Demonstrated in projects: Chat-App project.
-"Formik",                 # Group of 3 Project: Ice Cream Shop Finder.
-"Frontend Development",   # Demonstrated in 3 Projects.
-"Git/GitHub",             # Demonstrated in Projects.
-"GitHub Actions",         # Demonstrated in Chat-App project.
-"HTML",                   # Demonstrated in the Cocktail Recipe Search group project.
-"JSON",                   # Group of 3 Project: Ice Cream Shop Finder.
-"JavaScript",             # Demonstrated in the Cocktail Recipe Search group project.
-"Logging",                # Microsoft Azure Data Science Associate Certification.
+"Alembic", 
+"Automation", 
+"Azure Cloud",  
+"Azure Data Engineering", 
+"Azure Data Factory", 
+"Backend Development", 
+"CI/CD",
+"CLI", 
+"CSS", 
+"DOM", 
+"Data Analysis", 
+"Data Science", 
+"Data Visualization", 
+"Database Migration", 
+"Databricks", 
+"Debugging", 
+"Design_Patterns", 
+"Domain Modeling", 
+"Dplyr",
+"ELT", 
+"Flask",
+"Formik", 
+"Frontend Development", 
+"Ggplot2",
+"Git/GitHub", 
+"GitHub Actions",
+"HTML", 
+"JSON", 
+"JavaScript",
+"Logging"
 "Make",
 "Matplotlib", 
 "ORM", 
@@ -36,16 +38,23 @@
 "PostgreSQL", 
 "Program Management", 
 "Python",
+"R",
 "RESTful API", 
+"Raster",
+"RasterVis",
 "React", 
+"Remotes",
+"Rgdal",
 "SQL", 
 "SQLAlchemy", 
 "SQLite",
 "Scikit-Learn", 
 "Scripting", 
 "Serialization", 
+"Sf",
 "Spark", 
 "Technical Writing", 
+"Terra",
 "YAML", 
 "Yup", 
 "validation", 
